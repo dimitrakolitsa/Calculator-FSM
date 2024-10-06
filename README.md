@@ -1,1 +1,1 @@
-# Calculator-FSM-
+# Calculator-FSM in Verilog
